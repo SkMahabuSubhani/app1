@@ -1,0 +1,6 @@
+streamlit 
+st
+transformers
+pipeline
+re
+io
